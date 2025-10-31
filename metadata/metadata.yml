@@ -1,0 +1,43 @@
+include:
+  - name: firefox
+    full_name: Mozilla Firefox
+    icon: apps/firefox/icon.svg
+    description: "Firefox Browser, also known as Mozilla Firefox or simply Firefox, is a free and open-source web browser developed by the Mozilla Foundation."
+    tags: ["browser", "web", "internet"]
+    version: "latest"
+  - name: vscode
+    full_name: Visual Studio Code
+    icon: apps/vscode/icon.svg
+    description: "Visual Studio Code is a source-code editor developed by Microsoft for Windows, Linux and macOS"
+    tags: ["editor", "development", "code", "ide"]
+    version: "stable"
+  - name: kiro
+    full_name: Kiro.dev
+    icon: apps/kiro/icon.png
+    description: "Kiro is an agentic IDE that helps you do your best work with features such as specs, steering, and hooks."
+    tags: ["editor", "development", "ai", "ide"]
+    version: "202510142329"
+  - name: blender
+    full_name: Blender
+    icon: apps/blender/icon.svg
+    description: "Blender is a free and open-source 3D computer graphics software toolset used for creating animated films, visual effects, art, 3D printed models, motion graphics, interactive 3D applications, virtual reality, and computer games."
+    tags: ["3d", "graphics", "animation", "modeling", "creative"]
+    version: "4.2.3"
+  - name: krita
+    full_name: Krita
+    icon: apps/krita/icon.svg
+    description: "Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone."
+    tags: ["graphics", "painting", "art", "creative", "drawing"]
+    version: "5.2.6"
+  - name: chrome
+    full_name: Google Chrome
+    icon: apps/chrome/icon.svg
+    description: "Google Chrome is a cross-platform web browser developed by Google. It was first released in 2008 for Microsoft Windows, built with free software components from Apple WebKit and Mozilla Firefox."
+    tags: ["browser", "web", "internet", "google"]
+    version: "stable"
+  - name: vlc
+    full_name: VLC Media Player
+    icon: apps/vlc/icon.svg
+    description: "VLC media player is a free and open-source portable cross-platform media player software and streaming media server developed by the VideoLAN project."
+    tags: ["media", "video", "audio", "player", "multimedia"]
+    version: "latest"
